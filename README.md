@@ -1,6 +1,6 @@
 # random
 
-A new Flutter project.
+Flutter changeble random rgb background color
 
 ## Getting Started
 
